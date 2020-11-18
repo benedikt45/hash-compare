@@ -7,4 +7,4 @@ Options:
   -h, --hash        Hash to compare (not required)
 
 Output:
-  Calculated hash and, if -h has been entered, result compare
+  сalculated hash and, if -h has been entered, result compare
